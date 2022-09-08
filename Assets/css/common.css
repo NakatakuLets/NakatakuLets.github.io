@@ -1,4 +1,18 @@
 body{
     text-decoration: none;
     align-items: center;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 400;
+}
+h1 {
+    padding: 0.5em;/*文字周りの余白*/
+    color: #494949;/*文字色*/
+    background: #fffaf4;/*背景色*/
+    border-left: solid 5px #ffaf58;/*左線（実線 太さ 色）*/
+}
+h{
+    font-weight: 700;
+}
+p{
+    font-weight: 400;
 }
